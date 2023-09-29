@@ -1,7 +1,5 @@
-# E-Commerce
-Complete E-Commerce Application
-Digital Storefront on the internet. It facilitates the transaction between a buyer and seller.
-• It facilitates Authentication using jwt.
-• Admin Page, where only Admin can update the order
-status, Add to Cart functionality.
-Payment gateway Integration
+# ecommerce-app-2023
+complete mern stack ecommerce project 2023 complete code
+# Please check branches source code is video no wise 
+## here is project playlist : https://youtube.com/playlist?list=PLuHGmgpyHfRzhGkSUfY0vpi67X64g0mXB
+## please like subscribe and share TechinfoYT youtube chaannel
