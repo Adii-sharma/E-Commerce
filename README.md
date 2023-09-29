@@ -4,3 +4,4 @@ Digital Storefront on the internet. It facilitates the transaction between a buy
 • It facilitates Authentication using jwt.
 • Admin Page, where only Admin can update the order
 status, Add to Cart functionality.
+Payment gateway Integration
